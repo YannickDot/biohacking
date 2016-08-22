@@ -1,6 +1,6 @@
 # Biohacking
 
-⚗ 💊 🔬 Resources, experiments and observations about Biohacking
+⚗ 💊 📈  Resources, experiments and observations about Biohacking
 
 
 
@@ -11,7 +11,7 @@
 - immutable by design
 - ...
 
-... NOPE it's not a library.
+... NOPE it's not a software library.
 
 ### Installation
 ```sh
