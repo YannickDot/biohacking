@@ -2,8 +2,6 @@
 
 ⚗ 💊 📈  Resources, experiments and observations about Biohacking
 
-
-
 ### Features
 - works with any framework
 - built for speed
