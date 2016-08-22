@@ -1,6 +1,6 @@
 # Biohacking
 
-Resources, experiments and conclusions about Biohacking
+⚗ 💊 🔬 Resources, experiments and observations about Biohacking
 
 
 
