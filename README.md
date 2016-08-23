@@ -16,34 +16,6 @@
 $ sudo read `Biohacking` >> eyes 👀
 ```
 
-
-### Recipes
-
-Recipes work holistically on 2 aspects :
-
-- Psychology
-- Biology (Lifestyle & Supplements)
-
-You should always implement the lifestyle techniques first, supplements are like the icing on the cake that will give you the extra 10% improvement :)
-
-# Biohacking
-
-⚗ 💊 📈  Resources, experiments and observations about Biohacking
-
-### Features
-- works with any framework
-- built for speed
-- no deps!
-- immutable by design
-- ...
-
-... NOPE it's not a software library.
-
-### Installation
-```sh
-$ sudo read `Biohacking` >> eyes 👀
-```
-
 ### Recipes
 
 Recipes work holistically on 2 aspects :
